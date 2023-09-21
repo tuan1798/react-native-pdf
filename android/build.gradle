@@ -119,6 +119,6 @@ dependencies {
     }
     // NOTE: The original repo at com.github.barteksc is abandoned by the maintainer; there will be no more updates coming from that repo.
     //       It was taken over by com.github.TalbotGooday; from now on please use this repo until (if ever) the Barteksc repo is resumed.
-    implementation 'com.github.TalbotGooday:AndroidPdfViewer:3.1.0-beta.3'
+    implementation 'com.github.tuan1798:AndroidPdfViewer:v3.2.2'
     implementation 'com.google.code.gson:gson:2.8.5'
 }
